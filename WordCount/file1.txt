@@ -1,0 +1,10 @@
+This is a new class for hadoop
+we are learning HDFS and mapreduce
+there are total ten modules
+we are currentlt learning pig
+next session is hive
+we are learning yarn
+we are learning java in mapreduce
+we are learning pig
+we are learning hbase
+
